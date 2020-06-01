@@ -1,0 +1,5 @@
+com\oracle\foodtruck\service\FoodTruckService.class
+com\oracle\foodtruck\dto\FoodTruckData.class
+com\oracle\foodtruck\FoodTruckFinder.class
+com\oracle\foodtruck\dto\FoodTruckCount.class
+com\oracle\foodtruck\util\FoodTruckDataUtil.class
